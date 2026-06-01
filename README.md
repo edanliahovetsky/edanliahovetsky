@@ -40,5 +40,4 @@ producing reviewable patches.
 ### Rebel Robotics
 
 Lead Programmer and Drive Team Coach/Operator for
-[Rebel Robotics, FIRST Robotics Competition Team 2638](https://github.com/rebels2638),
-leading autonomous, vision, logging, simulation, controls, strategy, and team onboarding.
+[Rebel Robotics, FIRST Robotics Competition Team 2638](https://github.com/rebels2638)
