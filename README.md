@@ -4,7 +4,7 @@
 
 I build adopted robotics tools for FIRST Robotics Competition: autonomous path
 planning, robot-side control libraries, simulation/log workflows, and
-agent-assisted engineering loops that still end in human review.
+agent-assisted engineering loops.
 
 <p align="center">
   <a href="https://bline-web.pages.dev/">
