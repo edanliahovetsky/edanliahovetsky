@@ -1,0 +1,49 @@
+# Edan Liahovetsky
+
+**Team-adopted robotics software | Open-source tooling | Autonomous systems**
+
+I build adopted robotics tools for FIRST Robotics Competition: autonomous path
+planning, robot-side control libraries, simulation/log workflows, and
+agent-assisted engineering loops that still end in human review.
+
+<p align="center">
+  <a href="https://bline-web.pages.dev/">
+    <img src="https://github.com/edanliahovetsky/BLine-Web/raw/main/assets/readme/bline-web-demo.gif" alt="BLine Web editor demo" width="900">
+  </a>
+</p>
+
+## Featured Work
+
+### BLine
+
+BLine is a rapid point-to-point autonomous path planning and tracking library
+for FIRST Robotics Competition. I built it around a practical field problem:
+teams need to create reliable autonomous routines quickly, run them on real
+hardware, inspect what happened, and tune again.
+
+- [BLine-Lib](https://github.com/edanliahovetsky/BLine-Lib) - Java robot library
+  for path planning, tracking, constraints, event triggers, and WPILib
+  integration.
+- [BLine-Web](https://github.com/edanliahovetsky/BLine-Web) - web and desktop
+  editor for creating, tuning, previewing, and exporting BLine autonomous paths.
+- [Try the hosted editor](https://bline-web.pages.dev/) |
+  [Read the docs](https://bline-docs.pages.dev/) |
+  [Chief Delphi thread](https://www.chiefdelphi.com/t/introducing-bline-a-new-rapid-polyline-autonomous-path-planning-suite/509778)
+
+### wpilib-agent-tools
+
+[wpilib-agent-tools](https://github.com/edanliahovetsky/wpilib-agent-tools) is
+my sandbox-first AI/robotics harness for Codex, Claude Code, and Cursor. It
+helps agents work with WPILib projects by creating isolated workspaces, running
+simulation, recording telemetry, inspecting logs, graphing behavior, and
+producing reviewable patches.
+
+The goal is evidence before mutation: gather proof in simulation and logs, then
+review the patch before anything touches real robot code.
+
+### Rebel Robotics
+
+I am Team Captain and Lead Programmer for
+[Rebel Robotics, FIRST Robotics Competition Team 2638](https://github.com/rebels2638),
+where I lead autonomous, vision, logging, simulation, drivetrain software, code
+review, and programmer onboarding.
