@@ -17,7 +17,7 @@ agent-assisted engineering loops.
 ### BLine
 
 BLine is a rapid point-to-point autonomous path planning and tracking library
-for FIRST Robotics Competition. I built it around a practical field problem:
+for FIRST Robotics Competition. It is built around a practical field problem:
 teams need to create reliable autonomous routines quickly, run them on real
 hardware, inspect what happened, and tune again.
 
