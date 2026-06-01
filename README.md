@@ -32,14 +32,10 @@ hardware, inspect what happened, and tune again.
 
 ### wpilib-agent-tools
 
-[wpilib-agent-tools](https://github.com/edanliahovetsky/wpilib-agent-tools) is
-my sandbox-first AI/robotics harness for Codex, Claude Code, and Cursor. It
+[wpilib-agent-tools](https://github.com/edanliahovetsky/wpilib-agent-tools) is a sandbox-first AI/robotics harness for Codex, Claude Code, and Cursor. It
 helps agents work with WPILib projects by creating isolated workspaces, running
 simulation, recording telemetry, inspecting logs, graphing behavior, and
 producing reviewable patches.
-
-The goal is evidence before mutation: gather proof in simulation and logs, then
-review the patch before anything touches real robot code.
 
 ### Rebel Robotics
 
