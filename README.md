@@ -43,7 +43,6 @@ review the patch before anything touches real robot code.
 
 ### Rebel Robotics
 
-I the Lead Programmer and Drive Team Coach/Operator for
+Lead Programmer and Drive Team Coach/Operator for
 [Rebel Robotics, FIRST Robotics Competition Team 2638](https://github.com/rebels2638),
-where I lead autonomous, vision, logging, simulation, drivetrain software, code
-review, and programmer onboarding.
+leading autonomous, vision, logging, simulation, controls, strategy, and team onboarding.
