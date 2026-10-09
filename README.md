@@ -1,10 +1,10 @@
 # Edan Liahovetsky
 
-**Team-adopted robotics software | Open-source tooling | Autonomous systems**
+**Widely Adopted Robotics Software | Open-Source Tooling | Autonomous Systems**
 
-I build adopted robotics tools for FIRST Robotics Competition: autonomous path
-planning, robot-side control libraries, simulation/log workflows, and
-agentic engineering loops.
+I build open-source robotics software for FIRST Robotics Competition (FRC):
+autonomous path planning, robot-side control libraries, and AI tooling that
+improves robot code using logged data and simulation.
 
 <p align="center">
   <a href="https://bline-web.pages.dev/">
@@ -12,32 +12,35 @@ agentic engineering loops.
   </a>
 </p>
 
-## Featured Work
+## BLine
 
-### BLine
+Open-source autonomy for FRC. BLine enables teams to rapidly build reliable
+autonomous routines with limited robot time, raising the performance floor and
+ceiling for new and veteran teams alike.
 
-BLine is a rapid point-to-point autonomous path planning and tracking library
-for FIRST Robotics Competition. It is built around a practical field problem:
-teams need to create reliable autonomous routines quickly, run them on real
-hardware, inspect what happened, and tune again.
+- **Used by 30+ teams** across the U.S., Canada, Türkiye, and Israel, including
+  18 at the 2026 World Championship.
+- **2026 results:** teams using BLine won 15 competitions, a World Championship
+  division, and 8 Autonomous Awards, and one ranked #1 in its division.
+- **Benchmarks:** 97% lower path computation time and 66% lower cross-track error
+  at waypoints vs. PathPlanner in randomized physics-simulation trials.
+- Integration into FIRST's software ecosystem is underway for the 2027 season.
 
-- [BLine-Lib](https://github.com/edanliahovetsky/BLine-Lib) - Java robot library
-  for path planning, tracking, constraints, event triggers, and WPILib
-  integration.
-- [BLine-Web](https://github.com/edanliahovetsky/BLine-Web) - web and desktop
-  editor for creating, tuning, previewing, and exporting BLine autonomous paths.
-- [Try the hosted editor](https://bline-web.pages.dev/) |
-  [Read the docs](https://bline-docs.pages.dev/) |
-  [Chief Delphi thread](https://www.chiefdelphi.com/t/introducing-bline-a-new-rapid-polyline-autonomous-path-planning-suite/509778)
+[BLine-Lib](https://github.com/edanliahovetsky/BLine-Lib): Java robot library ·
+[BLine-Web](https://github.com/edanliahovetsky/BLine-Web): web/desktop path editor ·
+[Try the editor](https://bline-web.pages.dev/) · [Docs](https://bline-docs.pages.dev/) ·
+[Chief Delphi thread](https://www.chiefdelphi.com/t/introducing-bline-a-new-rapid-polyline-autonomous-path-planning-suite/509778)
 
-### wpilib-agent-tools
+## wpilib-agent-tools
 
-[wpilib-agent-tools](https://github.com/edanliahovetsky/wpilib-agent-tools) is a sandbox-first AI/robotics harness for Codex, Claude Code, and Cursor. It
-helps agents work with WPILib projects by creating isolated workspaces, running
-simulation, recording telemetry, inspecting logs, graphing behavior, and
-producing reviewable patches.
+An open-source toolkit that lets AI coding agents (Codex, Claude Code, Cursor)
+improve robot software autonomously. Agents work in isolated workspaces, run
+robot simulations, record telemetry, analyze logs, revise code, and re-test,
+with every change backed by data.
 
-### Rebel Robotics
+## Rebel Robotics, FRC Team 2638
 
-Lead Programmer and Drive Team Coach/Operator for
-[Rebel Robotics, FIRST Robotics Competition Team 2638](https://github.com/rebels2638)
+Team Captain & Programming Lead. Built the team's logging, simulation, and
+swerve/vision code; see [rebels2638](https://github.com/rebels2638).
+
+[LinkedIn](https://www.linkedin.com/in/edan-liahovetsky/) · edan.liahovetsky@icloud.com
