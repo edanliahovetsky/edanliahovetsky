@@ -40,7 +40,7 @@ with every change backed by data.
 
 ## Rebel Robotics, FRC Team 2638
 
-Team Captain & Programming Lead. Built the team's logging, simulation, and
+President & Programming Lead. Built the team's logging, simulation, and
 swerve/vision code; see [rebels2638](https://github.com/rebels2638).
 
 [LinkedIn](https://www.linkedin.com/in/edan-liahovetsky/) · edan.liahovetsky@icloud.com
