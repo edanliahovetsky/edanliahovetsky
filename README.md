@@ -43,4 +43,4 @@ with every change backed by data.
 President & Programming Lead. Built the team's logging, simulation, and
 swerve/vision code; see [rebels2638](https://github.com/rebels2638).
 
-[LinkedIn](https://www.linkedin.com/in/edan-liahovetsky/) · edan.liahovetsky@icloud.com
+**[edanliahovetsky.github.io](https://edanliahovetsky.github.io/)** · [LinkedIn](https://www.linkedin.com/in/edan-liahovetsky/) · edan.liahovetsky@icloud.com
