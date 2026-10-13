@@ -18,10 +18,10 @@ Open-source autonomy for FRC. BLine enables teams to rapidly build reliable
 autonomous routines with limited robot time, raising the performance floor and
 ceiling for new and veteran teams alike.
 
-- **Used by 30+ teams** across the U.S., Canada, Türkiye, and Israel, including
-  18 at the 2026 World Championship.
-- **2026 results:** teams using BLine won 15 competitions, a World Championship
-  division, and 8 Autonomous Awards, and one ranked #1 in its division.
+- **Used by 50+ teams** in six countries, including 24 at the 2026 World
+  Championship.
+- **2026 results:** teams using BLine won 12 competitions and a World Championship
+  division, and one ranked #1 in its Championship division.
 - **Benchmarks:** 97% lower path computation time and 66% lower cross-track error
   at waypoints vs. PathPlanner in randomized physics-simulation trials.
 - Integration into FIRST's software ecosystem is underway for the 2027 season.
